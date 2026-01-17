@@ -1,0 +1,49 @@
+CMakeFiles/SubwaySufersCity.dir/engine/src/main.c.obj: \
+ C:\Users\Somnus\Projects\SubwaySufersCity\engine\src\main.c \
+ C:/msys64/mingw64/include/stdio.h \
+ C:/msys64/mingw64/include/corecrt_stdio_config.h \
+ C:/msys64/mingw64/include/corecrt.h C:/msys64/mingw64/include/_mingw.h \
+ C:/msys64/mingw64/include/_mingw_mac.h \
+ C:/msys64/mingw64/include/_mingw_secapi.h \
+ C:/msys64/mingw64/include/vadefs.h \
+ C:/msys64/mingw64/include/sdks/_mingw_ddk.h \
+ C:/msys64/mingw64/include/_mingw_off_t.h \
+ C:/msys64/mingw64/include/swprintf.inl \
+ C:/msys64/mingw64/include/sec_api/stdio_s.h \
+ C:/msys64/mingw64/include/signal.h C:/msys64/mingw64/include/crtdefs.h \
+ C:/msys64/mingw64/include/pthread_signal.h \
+ C:/msys64/mingw64/include/stdlib.h \
+ C:/msys64/mingw64/include/corecrt_wstdlib.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/limits.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/syslimits.h \
+ C:/msys64/mingw64/include/limits.h \
+ C:/msys64/mingw64/include/sec_api/stdlib_s.h \
+ C:/msys64/mingw64/include/malloc.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/mm_malloc.h \
+ C:/msys64/mingw64/include/errno.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdbool.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vulkan.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_platform.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stddef.h \
+ C:/msys64/mingw64/include/stddef.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/15.2.0/include/stdint.h \
+ C:/msys64/mingw64/include/stdint.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vulkan_core.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_h264std.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codecs_common.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_h264std_encode.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_h264std.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_h265std.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_h265std_encode.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_h265std.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_h264std_decode.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_h265std_decode.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_av1std.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_av1std_decode.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_av1std.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_av1std_encode.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_vp9std.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_vp9std_decode.h \
+ C:/VulkanSDK/1.4.335.0/include/vulkan/vk_video/vulkan_video_codec_vp9std.h \
+ C:/Users/Somnus/Projects/SubwaySufersCity/glfw/include/GLFW/glfw3.h \
+ C:/msys64/mingw64/include/GL/gl.h

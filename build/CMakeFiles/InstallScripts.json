@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/Somnus/Projects/SubwaySufersCity/build/cmake_install.cmake",
+		"C:/Users/Somnus/Projects/SubwaySufersCity/build/glfw/cmake_install.cmake",
+		"C:/Users/Somnus/Projects/SubwaySufersCity/build/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
